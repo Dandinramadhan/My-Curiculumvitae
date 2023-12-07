@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../style/foto.webp);
+
+  font-family: "Poppins", sans-serif;
+  color: #111;
+}
+.body9 {
+  background-color: #ffbf9b;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 10px #6b240c;
+}
+.body10 {
+  background-color: #fa9884;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 5px 10px #a9907e;
+}
